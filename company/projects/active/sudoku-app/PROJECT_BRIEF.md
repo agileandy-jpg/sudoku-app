@@ -1,7 +1,7 @@
 # Project Brief: Sudoku App
 
 ## Overview
-First revenue-generating app for AppVenture Studio. A clean, well-designed Sudoku puzzle game for Android (cross-platform capable).
+First revenue-generating app for Agile Vortex. A clean, well-designed Sudoku puzzle game for Android (cross-platform capable).
 
 ## Goals
 - Ship a polished MVP in 2-3 weeks
